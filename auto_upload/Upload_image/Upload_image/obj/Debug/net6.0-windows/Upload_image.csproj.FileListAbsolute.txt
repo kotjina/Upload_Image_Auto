@@ -1,0 +1,17 @@
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\bin\Debug\net6.0-windows\Upload_image.exe
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\bin\Debug\net6.0-windows\Upload_image.deps.json
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\bin\Debug\net6.0-windows\Upload_image.runtimeconfig.json
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\bin\Debug\net6.0-windows\Upload_image.dll
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\bin\Debug\net6.0-windows\Upload_image.pdb
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.csproj.AssemblyReference.cache
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.Form1.resources
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.csproj.GenerateResource.cache
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.AssemblyInfoInputs.cache
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.AssemblyInfo.cs
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.csproj.CoreCompileInputs.cache
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.dll
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\refint\Upload_image.dll
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.pdb
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\Upload_image.genruntimeconfig.cache
+D:\Users\watsanapong\Desktop\Project A\upload_app\Upload_image\Upload_image\obj\Debug\net6.0-windows\ref\Upload_image.dll
